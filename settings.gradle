@@ -1,0 +1,4 @@
+rootProject.name = 'idplugparent'
+include 'idplugin-common'
+include 'idplugin-woodpecker'
+
